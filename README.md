@@ -1,2 +1,2 @@
-# rahuldarshan.io
+# rahuldarshan.github.io
 Learning HTML
